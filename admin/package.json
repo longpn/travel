@@ -1,0 +1,16 @@
+{
+    "name": "Travel",
+    "version": "0.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "",
+    "license": "BSD",
+    "dependencies": {
+        "connect-multiparty": "^2.0.0",
+        "body-parser": "~1.15.0",
+        "express": "*"
+    }
+}
